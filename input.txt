@@ -1,0 +1,14 @@
+28 31 13
+GET yggg
+DEL yggg
+GET yggg
+PUT yggg 23745
+DEL boox
+GET yggg
+GET boox
+PUT eguyji 74
+PUT omnq 21356
+PUT pid 78123
+DEL daibb
+GET pid
+GET omnq
